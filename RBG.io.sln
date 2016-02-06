@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{88B96995-3EF2-46A3-7CC3-782A9994D1EB}") = "RBG.io", "Assembly-CSharp.csproj", "{B59AF6C6-DA0A-8063-6952-3105285CB573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59AF6C6-DA0A-8063-6952-3105285CB573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59AF6C6-DA0A-8063-6952-3105285CB573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59AF6C6-DA0A-8063-6952-3105285CB573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59AF6C6-DA0A-8063-6952-3105285CB573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
